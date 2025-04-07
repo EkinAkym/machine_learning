@@ -1,0 +1,1 @@
+This folder contains the `decision_tree.ipynb` file, which includes models created using a classification tree and their results. As long as the code is run step by step, there should be no issues. Additionally, binary classification has been performed for the dataset analysis at the beginning of the notebook. Trees with different parameters have also been examined.
